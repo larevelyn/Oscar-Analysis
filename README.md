@@ -13,6 +13,3 @@ Este repositório apresenta uma análise dos vencedores do Oscar ao longo das d�
 - NumPy
 - Matplotlib
 - Seaborn
-=======
-# project_oscar
-Analysis of Oscar winners over the decades.
